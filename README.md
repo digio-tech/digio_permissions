@@ -3,6 +3,6 @@
 
 ```
 dependencies {
-    implementation 'com.github.digio-tech:permission:v5.0.1'
+    implementation 'com.github.digio-tech:permission:v5.0.2'
 }
 ```
